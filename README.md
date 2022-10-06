@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gulrukhsorakhmadjanova
+- 👋 Hi, I’m @22cs02
 - 👀 I’m interested in reading books and watching movies
 - 🌱 I’m currently learning computer programming
 - 💞️ I’m looking to collaborate on some programming companies
