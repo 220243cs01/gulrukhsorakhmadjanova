@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @220243cs02
+- 👋 Hi, I’m @220243cs01
 - 👀 I’m interested in reading books and watching movies
 - 🌱 I’m currently learning computer programming
 - 💞️ I’m looking to collaborate on some programming companies
